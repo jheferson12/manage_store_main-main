@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58b4822d-2bc7-4051-bb10-79aa30d73d97" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MegYLlCNLkOPPyxfFXx8TyCR0I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jheferson/Documents/YEFF/manage_store_main-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e51563aeca203dc9f7813fb069cad99b&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.ManageStoreApplication">
+    <configuration name="KidController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controller.KidController" />
+      <module name="manage_store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in manage_store" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="manage_store" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="manage_store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.edu.umanizales.manage_store.ManageStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in manage_store" />
+        <item itemvalue="Application.KidController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58b4822d-2bc7-4051-bb10-79aa30d73d97" name="Changes" comment="" />
+      <created>1678133508991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678133508991</updated>
+      <workItem from="1678133511245" duration="159000" />
+      <workItem from="1678136636491" duration="44000" />
+      <workItem from="1678283918862" duration="50000" />
+      <workItem from="1678300875893" duration="626000" />
+      <workItem from="1678308088637" duration="458000" />
+      <workItem from="1678333134618" duration="6807000" />
+      <workItem from="1678340459709" duration="154000" />
+      <workItem from="1678375477847" duration="1636000" />
+      <workItem from="1678377162148" duration="128000" />
+      <workItem from="1678378734476" duration="314000" />
+      <workItem from="1678416879799" duration="135000" />
+      <workItem from="1678546778731" duration="48000" />
+      <workItem from="1678547047486" duration="190000" />
+      <workItem from="1678547431833" duration="93000" />
+      <workItem from="1678547561773" duration="61000" />
+      <workItem from="1678547915879" duration="37000" />
+      <workItem from="1678548925505" duration="56000" />
+      <workItem from="1678549080007" duration="2999000" />
+      <workItem from="1678553229383" duration="209000" />
+      <workItem from="1678553621996" duration="1691000" />
+      <workItem from="1678556313894" duration="186000" />
+      <workItem from="1678556765881" duration="45000" />
+      <workItem from="1678556895856" duration="48000" />
+      <workItem from="1678557051747" duration="31000" />
+      <workItem from="1678558115392" duration="64000" />
+      <workItem from="1678558610217" duration="27000" />
+      <workItem from="1678558806300" duration="15000" />
+      <workItem from="1678561379101" duration="145000" />
+      <workItem from="1678561820500" duration="97000" />
+      <workItem from="1678562072175" duration="58000" />
+      <workItem from="1678563307810" duration="360000" />
+      <workItem from="1678564795342" duration="47000" />
+      <workItem from="1678565656966" duration="65000" />
+      <workItem from="1678566269523" duration="135000" />
+      <workItem from="1678567946481" duration="19000" />
+      <workItem from="1678573008586" duration="31000" />
+      <workItem from="1678573238016" duration="103000" />
+      <workItem from="1678573789781" duration="44000" />
+      <workItem from="1678574101202" duration="52000" />
+      <workItem from="1678574327554" duration="89000" />
+      <workItem from="1678581400787" duration="41000" />
+      <workItem from="1678581543719" duration="48000" />
+      <workItem from="1678581765678" duration="72000" />
+      <workItem from="1678583026484" duration="88000" />
+      <workItem from="1678583125669" duration="33000" />
+      <workItem from="1678583304591" duration="19000" />
+      <workItem from="1678583427756" duration="56000" />
+      <workItem from="1678585134757" duration="127000" />
+      <workItem from="1678659230798" duration="434000" />
+      <workItem from="1678660083151" duration="403000" />
+      <workItem from="1678660549037" duration="372000" />
+      <workItem from="1678662400096" duration="198000" />
+      <workItem from="1678662660162" duration="2562000" />
+      <workItem from="1678665408692" duration="803000" />
+      <workItem from="1678674997897" duration="71000" />
+      <workItem from="1678677163899" duration="310000" />
+      <workItem from="1678722053716" duration="7668000" />
+      <workItem from="1678733255120" duration="3169000" />
+      <workItem from="1678739268381" duration="1409000" />
+      <workItem from="1678740783150" duration="322000" />
+      <workItem from="1678742301703" duration="1750000" />
+      <workItem from="1678746617371" duration="1823000" />
+      <workItem from="1678762433926" duration="435000" />
+      <workItem from="1678763098421" duration="1075000" />
+      <workItem from="1678766804050" duration="154000" />
+      <workItem from="1678767251586" duration="77000" />
+      <workItem from="1678767430034" duration="609000" />
+      <workItem from="1678768104607" duration="469000" />
+      <workItem from="1678768638292" duration="3037000" />
+      <workItem from="1678808391636" duration="2258000" />
+      <workItem from="1678822730499" duration="2649000" />
+      <workItem from="1678826862855" duration="142000" />
+      <workItem from="1678827439291" duration="136000" />
+      <workItem from="1678847373556" duration="589000" />
+      <workItem from="1678848265189" duration="3819000" />
+      <workItem from="1678886221893" duration="156000" />
+      <workItem from="1678893777779" duration="33000" />
+      <workItem from="1678905077690" duration="848000" />
+      <workItem from="1678906580372" duration="155000" />
+      <workItem from="1678911455849" duration="1158000" />
+      <workItem from="1678933296625" duration="551000" />
+      <workItem from="1678933909412" duration="385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/Controller/KidController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
