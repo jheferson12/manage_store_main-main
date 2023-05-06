@@ -47,7 +47,7 @@ public class SaleController {
                     storeL.add(i.getStore());
 
                 }
-                // Abajo del codigo vemos que lo que hacemos es pedir a que me retorne el nombre de la lista
+  // Abajo del codigo vemos que lo que hacemos es pedir a que me retorne el nombre de la lista
 
             }
             return new ResponseEntity<>(
@@ -134,7 +134,6 @@ public class SaleController {
 
     }
 
-
     @GetMapping(path = "/averagesalebystore")
     public ResponseEntity<ResponseDTO> getAverageSaleByStore() {
         int average = saleService.getTotalSales();
@@ -150,6 +149,17 @@ public class SaleController {
                     200,average/quantitystore, null), HttpStatus.OK);
         }
 
+    }
+    @GetMapping(path = "/storescant/{cant}")
+    public ResponseEntity<ResponseDTO> getStoresByCant (@PathVariable int cant) {
+        if (saleService.getStoresByCant(cant).isEmpty()) {
+            return new ResponseEntity<>(new ResponseDTO(
+                    404, "No existen tiendas para cumplir con el requisito pedido", null)
+                    ,HttpStatus.BAD_REQUEST);
+        }
+        else {
+            return new ResponseEntity<>(new ResponseDTO(200,saleService.getStoresByCant(cant),null),HttpStatus.OK);
+        }
     }
     
 }

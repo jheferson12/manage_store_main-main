@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58b4822d-2bc7-4051-bb10-79aa30d73d97" name="Changes" comment="" />
+    <list default="true" id="58b4822d-2bc7-4051-bb10-79aa30d73d97" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/controller/SaleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/controller/SaleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/controller/SellerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/controller/SellerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/controller/StoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/controller/StoreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/service/SaleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/service/SaleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/service/SellerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/manage_store_main-main/manage_store-main/manage_store-main/src/main/java/co/edu/umanizales/manage_store/service/SellerService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2MegYLlCNLkOPPyxfFXx8TyCR0I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -177,6 +188,16 @@
       <workItem from="1678911455849" duration="1158000" />
       <workItem from="1678933296625" duration="551000" />
       <workItem from="1678933909412" duration="385000" />
+      <workItem from="1678935467619" duration="4385000" />
+      <workItem from="1679025046606" duration="118000" />
+      <workItem from="1680369885568" duration="778000" />
+      <workItem from="1680370870703" duration="3357000" />
+      <workItem from="1680374531714" duration="20000" />
+      <workItem from="1681339744301" duration="124000" />
+      <workItem from="1681340115818" duration="13000" />
+      <workItem from="1681616766048" duration="27000" />
+      <workItem from="1681775222361" duration="388000" />
+      <workItem from="1683397192851" duration="735000" />
     </task>
     <servers />
   </component>

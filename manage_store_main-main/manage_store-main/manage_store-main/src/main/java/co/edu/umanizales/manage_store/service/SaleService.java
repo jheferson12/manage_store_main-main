@@ -75,6 +75,16 @@ public class SaleService {
         }
         return bestStoreDTO;
     }
+    public List<Store> getStoresByCant(int cant){
+        List<Store> bestStoresWithMostSales = new ArrayList<>();
+        for (Sale sale:sales){
+            if (getTotalSalesByStore(sale.getStore().getCode()) > cant){
+                bestStoresWithMostSales.add(sale.getStore());
+            }
+        }
+        return bestStoresWithMostSales;
+    }
+
 
 
 }

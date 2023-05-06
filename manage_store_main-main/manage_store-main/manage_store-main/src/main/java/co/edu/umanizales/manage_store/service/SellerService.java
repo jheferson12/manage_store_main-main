@@ -1,6 +1,9 @@
 package co.edu.umanizales.manage_store.service;
 
+import co.edu.umanizales.manage_store.controller.dto.BestSellerDTO;
+import co.edu.umanizales.manage_store.controller.dto.BestStoreDTO;
 import co.edu.umanizales.manage_store.model.Seller;
+import co.edu.umanizales.manage_store.model.Store;
 import lombok.Getter;
 import org.springframework.stereotype.Service;
 import java.util.ArrayList;
@@ -29,4 +32,6 @@ public class SellerService {
         }
         return null;
     }
+
+
 }

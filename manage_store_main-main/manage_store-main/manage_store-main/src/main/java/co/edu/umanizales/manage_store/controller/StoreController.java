@@ -1,5 +1,4 @@
 package co.edu.umanizales.manage_store.controller;
-
 import co.edu.umanizales.manage_store.controller.dto.ResponseDTO;
 import co.edu.umanizales.manage_store.model.Store;
 import co.edu.umanizales.manage_store.service.StoreService;
@@ -12,7 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import java.util.List;
+
 
 @RestController
 @RequestMapping(path="store")
@@ -62,4 +61,6 @@ public class StoreController {
             ), HttpStatus.OK);
         }
     }
+
+
 }
